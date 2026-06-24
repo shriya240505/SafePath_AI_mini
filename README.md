@@ -25,6 +25,19 @@ This project analyzes crimes against women in India from 2001–2021 and calcula
 
 Crimes Against Women in India (2001–2021)
 
+## Achivement through project
+✅ Data Cleaning
+✅ Exploratory Data Analysis (EDA)
+✅ Women Safety Index (WSI) Creation
+✅ Risk Score Calculation
+✅ Streamlit Dashboard
+✅ State & Year Filters
+✅ Crime Trend Analysis
+✅ Top Safe / Risky States Analysis
+✅ README.md
+✅ requirements.txt
+✅ GitHub Upload
+
 ## Future Scope
 
 - Route Safety Score
