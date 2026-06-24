@@ -63,3 +63,8 @@ Crimes Against Women in India (2001–2021)
 
 ### insights 
 ![Dashboard 5](screenshots/dashboard5.png)
+
+## Live Demo
+
+🔗 Streamlit App:
+https://your-app-link.streamlit.app
